@@ -2,6 +2,7 @@
 <h3 align="center">As a computer engineering and informatics student, I enjoy using my coding skills to develop simple apps and share my projects on GitHub.</h3>
 
 - 👨‍💻 My CodePen: [https://codepen.io/akis_papapanagiotou](https://codepen.io/akis_papapanagiotou)
+
 - 📫 How to reach me: **https://www.linkedin.com/in/akis-papapanagiotou/**
 
 <h3 align="left">Languages and Tools:</h3>
