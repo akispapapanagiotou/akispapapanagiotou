@@ -4,3 +4,5 @@
 - 👨‍💻 My mini projects: <a href="https://codepen.io/akispapapanagiotou" target="_blank">CodePen</a>
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/akis-papapanagiotou/" target="_blank">LinkedIn</a>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
